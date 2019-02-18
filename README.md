@@ -1,2 +1,2 @@
-# Big_Data_Analysis
+# Big_Data_Analytics
 Data Analytics Group Projectr
